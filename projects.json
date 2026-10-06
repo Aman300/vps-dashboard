@@ -1,0 +1,10 @@
+[
+  {
+    "id": "plyzoo",
+    "name": "plyzoo",
+    "path": "/home/plyzoo.com",
+    "branch": "main",
+    "pm2Name": "plyzoo",
+    "buildCommand": "npm run build"
+  }
+]
